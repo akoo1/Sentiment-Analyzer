@@ -488,18 +488,3 @@ bool isSubString(char* str, char* sub_str) {
 bool way_to_sort(DSString& lhs, DSString& rhs) {
     return lhs.getData() < rhs.getData();
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-// In C++, stream classes support line-oriented functions, getline() and write() to
-// perform input and output functions respectively.
